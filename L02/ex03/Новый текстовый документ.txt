@@ -1,0 +1,38 @@
+7->3 
+	 <a href="images/image1.jpg"></a>
+
+7->4  
+	<a href="images/image2.jpg"></a>
+
+8->5 
+	 <a href="images/image3.jpg"></a>
+
+7->16 
+	<a href="http://site1.ru/ index.html"></a>
+
+8->7  
+	<a href="article1.html"></a>
+
+8->13 
+	<a href="http://site1.ru/folder/picture1.jpg"></a>
+
+8->17 
+	<a href="http://site1.ru/info.html"></a>
+
+9->7 
+	<a href="images/article1.html"></a>
+
+9->8 
+	<a href="images/article2.html"></a>
+
+16->13 
+	<a href="folder/picture1.jpg"></a>
+
+16->18 
+	<a href="about.html"></a>
+
+17->14 
+	<a href="folder/picture2.png"></a>
+
+17->9
+	 <a href="http://blog.test.ru/about.html"></a>
